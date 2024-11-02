@@ -1,0 +1,44 @@
+article {
+    width: 100%;
+    height: max-content;
+    padding: 10px;
+}
+
+h1 {
+    color: #333;
+}
+
+.message-board {
+    margin-top: 20px;
+}
+
+#messages {
+    max-height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+textarea {
+    width: 80%;
+    height: 80px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    resize: none;
+}
+
+section button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+section button:hover {
+    background-color: #218838;
+}

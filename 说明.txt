@@ -1,0 +1,4 @@
+纯html+css+js,一共8个页面
+包含的知识点有:div+css布局、浮动、定位;高级css;表单;js轮播图;ul li、下拉导航栏等
+
+图标,svg来源于 https://www.iconfont.cn/,https://cn.pattern.monster/

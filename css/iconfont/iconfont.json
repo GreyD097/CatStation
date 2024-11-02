@@ -1,0 +1,51 @@
+{
+  "id": "4731735",
+  "name": "project01",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "25228424",
+      "name": "蓝莓猫",
+      "font_class": "lanmeimao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "26455083",
+      "name": "狸花猫",
+      "font_class": "lihuamao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "8913069",
+      "name": "猫咪",
+      "font_class": "maomi",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "17425315",
+      "name": "猫咪",
+      "font_class": "chongwutubiao04",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "38858562",
+      "name": "猫咪-copy",
+      "font_class": "maomi1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "40025611",
+      "name": "猫咪-copy",
+      "font_class": "maomi2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
